@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 31e0e874-9e99-394d-1c18-967b60001bf4
 resourcetype: Document
 title: gerber_report.pdf
 uid: ab7f194f-d1d3-2bc7-e5b8-4d6a117571a1

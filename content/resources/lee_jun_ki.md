@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 31e0e874-9e99-394d-1c18-967b60001bf4
 resourcetype: Document
 title: lee_jun_ki.pdf
 uid: 9d19b170-c0ba-f9c9-8dbc-8de3eccc8dcd

@@ -1,14 +1,15 @@
 ---
 content_type: resource
-description: This resource contains problem statements for the course.
-file: /media/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/9cffcb30eebc86c724b39585bdb3f0e4_ps1.pdf
-file_type: application/pdf
+description: This resource is a supporting file for problem set 1.
+file: /media/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/b23f6b6a2edbfd0fdf3bdc8d479f584b_ps1.dat
+file_type: text/plain
 learning_resource_types:
 - Assignments
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
-resourcetype: Document
-title: ps1.pdf
-uid: 9cffcb30-eebc-86c7-24b3-9585bdb3f0e4
+parent_uid: b7594090-e1b0-adee-2cf1-eb6cb09ce2b8
+resourcetype: Other
+title: ps1.dat
+uid: b23f6b6a-2edb-fd0f-df3b-dc8d479f584b
 ---

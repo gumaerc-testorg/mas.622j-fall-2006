@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 31e0e874-9e99-394d-1c18-967b60001bf4
 resourcetype: Document
 title: chang_report.pdf
 uid: 75236bfe-21e5-edbc-c563-82e997859a3f
