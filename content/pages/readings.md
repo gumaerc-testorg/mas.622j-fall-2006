@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section contains a table comprising of session numbers and readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 394ad9fe-ff87-d48c-c39e-ccb07664775f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Duda, Richard O., Peter E. Hart, and David G. Stork. _Pattern Classification_. New York, NY: John Wiley & Sons, 2000. ISBN: 9780471056690.

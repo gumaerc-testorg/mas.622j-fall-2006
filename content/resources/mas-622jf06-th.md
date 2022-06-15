@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/4d1ac34821181d3467fb74d88e081aab_mas-622jf06-th.jpg
+file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/4d1ac34821181d3467fb74d88e081aab_mas-622jf06-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Six Gaussians (red) and their sum (blue). The Parzen window density estimate
@@ -15,4 +15,10 @@ ocw_type: OCWImage
 resourcetype: Image
 title: mas-622jf06-th.jpg
 uid: 4d1ac348-2118-1d34-67fb-74d88e081aab
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+New image Upload
+

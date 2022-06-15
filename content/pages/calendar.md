@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This section contains a table with session number and keydates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: ec4f6278-a26b-7bb5-ec4e-19a0a503c9bd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

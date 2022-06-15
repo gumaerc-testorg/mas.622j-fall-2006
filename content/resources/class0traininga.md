@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file.
-file: /media/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/e2e035674427e2f120218e86f141c17a_class0trainingA.dat
+file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/e2e035674427e2f120218e86f141c17a_class0trainingA.dat
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: class0trainingA.dat
 uid: e2e03567-4427-e2f1-2021-8e86f141c17a
 ---
+This resource is a supporting file.
+

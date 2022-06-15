@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a data set file for problem set3.
-file: /media/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/236aea1ada6dbb65ee227dcea359a294_ps3_data.txt
+file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/236aea1ada6dbb65ee227dcea359a294_ps3_data.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: ps3_data.txt
 uid: 236aea1a-da6d-bb65-ee22-7dcea359a294
 ---
+This resource is a data set file for problem set3.
+
