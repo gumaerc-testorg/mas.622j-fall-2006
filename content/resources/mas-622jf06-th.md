@@ -11,6 +11,7 @@ image_metadata:
   credit: ''
   image-alt: Parzen window illustration.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-622jf06-th.jpg
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 New image Upload
-

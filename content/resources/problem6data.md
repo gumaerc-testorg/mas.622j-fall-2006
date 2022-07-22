@@ -5,6 +5,7 @@ file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/dc9ec5109ad8a
 file_type: application/x-tar
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a supporting file for problem 6.
-

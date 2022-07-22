@@ -6,6 +6,7 @@ file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/ab7f194fd1d32
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a project on the effect of feature selection on classification of high dimensional data.
-

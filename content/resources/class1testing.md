@@ -5,6 +5,7 @@ file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/bffe4362226f5
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: class1testing.dat
 uid: bffe4362-226f-5b70-07e3-08a06388756e
 ---
 This resource is a supporting file.
-

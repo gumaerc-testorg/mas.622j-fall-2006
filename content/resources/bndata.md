@@ -5,6 +5,7 @@ file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/8fca7b4b7c82b
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: BNData.txt
 uid: 8fca7b4b-7c82-b0f8-3ff8-c6697c8372ea
 ---
 This resource is a solution file for Assignment.
-

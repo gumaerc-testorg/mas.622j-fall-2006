@@ -6,6 +6,7 @@ file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/9d19b170c0baf
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains a project on instrinsic rewards in reinforcement learning.
-
