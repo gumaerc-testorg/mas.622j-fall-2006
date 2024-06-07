@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a project on non-parametric classification of
   facial features.
 file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/75236bfe21e5edbcc56382e997859a3f_chang_report.pdf
+file_size: 259986
 file_type: application/pdf
 learning_resource_types:
 - Projects
