@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a project on the effect of feature selection on
   classification of high dimensional data.
 file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/ab7f194fd1d32bc7e5b84d6a117571a1_gerber_report.pdf
+file_size: 517845
 file_type: application/pdf
 learning_resource_types:
 - Projects

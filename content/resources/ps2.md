@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problem statements for the course.
 file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/cc6056c2aecf9d2ffe1d1a4c1790c257_ps2.pdf
+file_size: 132186
 file_type: application/pdf
 learning_resource_types:
 - Assignments
