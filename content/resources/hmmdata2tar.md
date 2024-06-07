@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file.
 file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/8582f24163192682c83c86c1afa2ef58_hmmdata2tar.gz
+file_size: 26969
 file_type: application/x-gzip
 learning_resource_types:
 - Assignments
