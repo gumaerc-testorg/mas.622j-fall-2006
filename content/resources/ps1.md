@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements for the course.
-file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/9cffcb30eebc86c724b39585bdb3f0e4_ps1.pdf
+file: /ol-ocw-studio-app/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/9cffcb30eebc86c724b39585bdb3f0e4_ps1.pdf
 file_size: 116419
 file_type: application/pdf
 learning_resource_types:
