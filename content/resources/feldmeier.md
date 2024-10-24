@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a project on predictors for human temperature
   comfort.
-file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/9b7aaeb4d3c941db7dc1fb5752aa0413_feldmeier.pdf
+file: /ol-ocw-studio-app/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/9b7aaeb4d3c941db7dc1fb5752aa0413_feldmeier.pdf
 file_size: 7531
 file_type: application/pdf
 learning_resource_types:
