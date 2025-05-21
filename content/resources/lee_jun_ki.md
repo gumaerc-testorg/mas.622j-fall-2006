@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a project on instrinsic rewards in reinforcement
   learning.
-file: /ol-ocw-studio-app/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/9d19b170c0baf9c98dbc8de3eccc8dcd_lee_jun_ki.pdf
+file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/9d19b170c0baf9c98dbc8de3eccc8dcd_lee_jun_ki.pdf
 file_size: 516428
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/4d1ac34821181d3467fb74d88e081aab_mas-622jf06-th.jpg
+file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/4d1ac34821181d3467fb74d88e081aab_mas-622jf06-th.jpg
 file_size: 6524
 file_type: image/jpeg
 image_metadata:

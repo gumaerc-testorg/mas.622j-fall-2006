@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file.
-file: /ol-ocw-studio-app/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/3a0f2a01894b62355e660fb968c8d23e_class1trainingB.dat
+file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/3a0f2a01894b62355e660fb968c8d23e_class1trainingB.dat
 file_size: 2270
 file_type: text/plain
 learning_resource_types:

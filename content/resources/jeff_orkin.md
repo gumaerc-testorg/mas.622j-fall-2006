@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a project related speech act.
-file: /ol-ocw-studio-app/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/018b2dede0e762d11e5b261de2c919aa_jeff_orkin.pdf
+file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/018b2dede0e762d11e5b261de2c919aa_jeff_orkin.pdf
 file_size: 251643
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem 6.
-file: /ol-ocw-studio-app/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/dc9ec5109ad8a5590f4c1fa7ae448a67_problem6data.tar
+file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/dc9ec5109ad8a5590f4c1fa7ae448a67_problem6data.tar
 file_size: 6778880
 file_type: application/x-tar
 learning_resource_types:
