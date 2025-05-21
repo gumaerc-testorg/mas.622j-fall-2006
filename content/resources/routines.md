@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains files related to tools section.
-file: /ol-ocw-studio-app/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/f244b65c96854b5c98b723d78fd8dab6_routines.zip
+file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/f244b65c96854b5c98b723d78fd8dab6_routines.zip
 file_size: 2824
 file_type: application/zip
 learning_resource_types:
