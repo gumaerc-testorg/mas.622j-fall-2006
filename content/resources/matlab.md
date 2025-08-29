@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem statements.
-file: /courses/mas-622j-pattern-recognition-and-analysis-fall-2006/bdbb6c70a8bd05c032dbdb31483dc48f_matlab.pdf
+file: /ol-ocw-studio-app/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/bdbb6c70a8bd05c032dbdb31483dc48f_matlab.pdf
 file_size: 40551
 file_type: application/pdf
 learning_resource_types:
