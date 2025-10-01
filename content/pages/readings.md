@@ -16,7 +16,7 @@ Duda, Richard O., Peter E. Hart, and David G. Stork. _Pattern Classification_. N
 
 Microsoft® PowerPoint® slides, errata and other useful information about the textbook can be found here. The textbook is referred to as DHS further below.
 
-[Pattern Classification](http://web.archive.org/web/20110715184521/http://rii.ricoh.com/~stork/DHS.html)
+{{% resource_link "5f437104-c9a9-4c66-b118-e282acbc94d4" "Pattern Classification" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -141,7 +141,7 @@ Belhumeur, P. N., J. P. Hespanha, and D. J. Kriegman. "Eigenfaces Vs. Fisherface
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Murphy, Kevin. "[A Brief Introduction to Graphical Models and Bayesian Networks](http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html)."
+Murphy, Kevin. "{{% resource_link "a5888300-c331-4f81-b88a-0540b10b5bbc" "A Brief Introduction to Graphical Models and Bayesian Networks" %}}."
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,7 +194,7 @@ DHS. Chapters 10.2-10.4.2.
 
 Klarreich, Erica. "Election Selection." _Science News_ 162, no. 18 (2002): 280.
 
-Smith, Warren D. "[Range Voting: The Best Way to Select a Leader?](http://rangevoting.org/SmithWM.html)"
+Smith, Warren D. "{{% resource_link "8ce03d1f-8e2e-4764-80b9-79071a4c60c6" "Range Voting: The Best Way to Select a Leader?" %}}"
 
 
 {{< tdclose >}}
@@ -263,7 +263,7 @@ DHS. Chapters 10.4.3, 10.4.4, and 10.6-10.10.
 
 DHS. Chapters A.7 and 8.1-8.4.
 
-Somol, P., and P. Pudil. "[Feature Selection Algorithms - A Brief Guide](http://ro.utia.cas.cz/RO_old/fs/fs_guideline.html)."
+Somol, P., and P. Pudil. "{{% resource_link "9076048b-2294-4662-af6d-e9dc6dae9867" "Feature Selection Algorithms - A Brief Guide" %}}."
 
 
 {{< tdclose >}}
